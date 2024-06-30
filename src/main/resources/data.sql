@@ -1,0 +1,4 @@
+INSERT INTO product (id,code,name,description,image,price,category,quantity,inventory_status,rating) values (1000,'f230fh0g3','Bamboo Watch','Product Description','bamboo-watch.jpg',65,'Accessories',24,'INSTOCK',5);
+INSERT INTO product (id,code,name,description,image,price,category,quantity,inventory_status,rating) values (1001,'nvklal433','Black Watch','Product Description','black-watch.jpg',72,'Accessories',61,'INSTOCK',4);
+INSERT INTO product (id,code,name,description,image,price,category,quantity,inventory_status,rating) values (1002,'zz21cz3c1','Blue Band','Product Description','blue-band.jpg',79,'Fitness',2,'LOWSTOCK',3);
+INSERT INTO product (id,code,name,description,image,price,category,quantity,inventory_status,rating) values (1003,'244wgerg2','Blue T-Shirt','Product Description','blue-t-shirt.jpg',29,'Clothing',25,'INSTOCK',5);
